@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533b78a2-bf5a-47aa-b90e-e9fc4fd46548" name="Changes" comment="Exercise 3 commit.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="533b78a2-bf5a-47aa-b90e-e9fc4fd46548" name="Changes" comment="Added an alternative" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +65,20 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1736430641626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Added an alternative">
+      <option name="closed" value="true" />
+      <created>1736698975948</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1736698975948</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 3 commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3 commit." />
+    <MESSAGE value="Added an alternative" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an alternative" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

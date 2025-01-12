@@ -3,15 +3,15 @@ print(int(x))
 y = input("Ange ännu ett heltal: ")
 print(f"Summan av talen är: {int(x) + int(y)}")
 
-def attBetala(rabattSats, pris):
-    rabattSumma = pris * (rabattSats / 100)
-    slutSumma = pris - rabattSumma
-    return slutSumma
+def attbetala(rabattsats, pris):
+    rabattsumma = pris * (rabattsats / 100)
+    slutsumma = pris - rabattsumma
+    return slutsumma
 
 jacka = 2000
 rabatt = input("Vilken rabattsats är det på jackan? ")
 
-print("Jackan kostar: " + str(attBetala(int(rabatt), jacka)) + " kronor med " + str(rabatt) + " % rabatt.")
+print("Jackan kostar: " + str(attbetala(int(rabatt), jacka)) + " kronor med " + str(rabatt) + " % rabatt.")
 
 jacka = 2000
 rabatt = input("Vilken rabattsats är det på jackan? ")
